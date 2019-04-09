@@ -1,0 +1,3 @@
+[submodule "aplikasi-pembayaran-app"]
+	path = aplikasi-pembayaran-app
+	url = https://github.com/ucuptimposu/aplikasi-pembayaran-app.git
